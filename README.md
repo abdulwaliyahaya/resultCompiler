@@ -33,6 +33,9 @@ use the specific_student_result method to get student specific result
  'subject_result': {'Maths': {'score': 43, 'position': 2}, 'English': {'score': 76, 'position': 2},
  'Drawing': {'score': 54, 'position': 2}}}
 ```
-
+# Authors
+- Abdulwali Yahaya
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
