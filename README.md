@@ -36,6 +36,6 @@ use the specific_student_result method to get student specific result
 # Authors
 - Abdulwali Yahaya
 # License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE file for details
 
 
