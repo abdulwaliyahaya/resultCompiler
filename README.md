@@ -4,7 +4,7 @@ A python class for compiling end of the term result for primary and secondary sc
 As a corp member serving in a secondary school in Gombe State, the step it takes to generate students results is hectic,
 inefficient, error prone and time consuming. This is an attempt to make this step less hectic, efficient, error free and
 in the matter of a second. This python class was developed for use in a larger system, a web-based result management
-system. However, feel free to use it in a desktop based app or a command Line Interface (CLI) app provider you acknowledge the copyright.
+system. However, feel free to use it in a desktop based app or a command Line Interface (CLI) app provided you acknowledge the copyright.
 # How to use
 the `Compiler class` in the `result.py` accepts scores of students (including attendance record and remark)
 as a list of list (or tuple) with the first list (or tuple) consisting of subject list with attendance and remark
