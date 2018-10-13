@@ -25,7 +25,7 @@ using the class
 >> result.subject_list
 ['Maths', 'English', 'Drawing']
 ```
-use the specific_student_result method to get student specific result
+use the `specific_student_result` method to get student specific result
 ```
 >> result.specific_student_result('fas13geo001')
 {'student': 'fas13geo001', 'overall_result': {'position': 2, 'total_score': 173, 'average': 57.7,
